@@ -29,7 +29,7 @@
 | 날짜       | 번호  | 제목             | 난이도 | 분류 | 코드 링크 |
 |-----------|-------|------------------|--------|------|-----------|
 | 2025-11-28 | 10952 | A+B    | B5     | 반복문   | [코드][(./BOJ//.java)](https://github.com/inho9979/coding-test/blob/main/BOJ/Bronze/BOJ_10952_A%2BB.java) |
-| 2025-12-01 | 1546 | 평균    | B1     | 1차원배열   | [코드][[(./BOJ//.java)](https://github.com/inho9979/coding-test/blob/main/BOJ/Bronze/BOJ_10952_A%2BB.java)](https://github.com/inho9979/coding-test/blob/main/BOJ/Bronze/BOJ_1546_%ED%8F%89%EA%B7%A0.java) |
+| 2025-12-01 | 1546 | 평균    | B1     | 1차원배열   | [코드][(./BOJ//.java)](https://github.com/inho9979/coding-test/blob/main/BOJ/Bronze/BOJ_1546_%ED%8F%89%EA%B7%A0.java) |
 
 ---
 
