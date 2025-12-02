@@ -14,13 +14,6 @@ public class Main {
         diceB = scanner.nextInt();
         diceC = scanner.nextInt();
         max = diceA;
-        if(diceB > max) {
-            max = diceB;
-        }
-
-        if(diceC > max) {
-            max = diceC;
-        }
 /*
         조건문의 이해도 부족 코드.... max값을 구하는데 있어서
         if, else if 관계가 아니더라도 위의 조건문을 통과혹은 불통 했을경우 아래의 조건문에 해당하는 경우의 수는
@@ -45,6 +38,14 @@ public class Main {
         }*/
 
         // 재대로된 max값 구하는 코드
+        if(diceB > max) {
+            max = diceB;
+        }
+
+        if(diceC > max) {
+            max = diceC;
+        }
+
         if(diceA == diceB) {
             if(diceB == diceC) {
                 // a == b, b == c, a == c
