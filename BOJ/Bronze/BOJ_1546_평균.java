@@ -29,6 +29,7 @@ public class Main {
         for(int i=0; i<n; i++) {
             scoreArr[i] = (scoreArr[i]/maxScore) * 100;
         }
+        // 쓸모없는 for문
         for(int i=0; i<n; i++) {
             scoreSum += scoreArr[i];
         }
