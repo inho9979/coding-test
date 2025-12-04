@@ -31,6 +31,7 @@
 | 2025-11-28 | 10952 | A+B    | B5     | 반복문   | [코드][(./BOJ//.java)](https://github.com/inho9979/coding-test/blob/main/BOJ/Bronze/BOJ_10952_A%2BB.java) |
 | 2025-12-01 | 1546 | 평균    | B1     | 1차원배열   | [코드][(./BOJ//.java)](https://github.com/inho9979/coding-test/blob/main/BOJ/Bronze/BOJ_1546_%ED%8F%89%EA%B7%A0.java) |
 | 2025-12-02 | 2480 | 주사위 세개    | B4     | 조건문   | [코드][(./BOJ//.java)](https://github.com/inho9979/coding-test/blob/main/BOJ/Bronze/BOJ_2480_%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%84%B8%EA%B0%9C.java) |
+| 2025-12-04 | 2675 | 문자열 반복    | B2     | 문자열   | [코드][(./BOJ//.java)](https://github.com/inho9979/coding-test/blob/main/BOJ/Bronze/BOJ_2675_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5.java) |
 ---
 
 ## 🎯 목표
