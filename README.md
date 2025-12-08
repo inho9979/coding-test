@@ -34,6 +34,7 @@
 | 2025-12-04 | 2675 | 문자열 반복    | B2     | 문자열   | [코드][(./BOJ//.java)](https://github.com/inho9979/coding-test/blob/main/BOJ/Bronze/BOJ_2675_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5.java) |
 | 2025-12-05 | 2439 | 별찍기2    | B4     | 반복문   | [코드][(./BOJ//.java)](https://github.com/inho9979/coding-test/blob/main/BOJ/Bronze/BOJ_2439_%EB%B3%84%EC%B0%8D%EA%B8%B02.java) |
 | 2025-12-06 | 10871 | X보다 작은 수    | B5     | 1차원배열   | [코드][(./BOJ//.java)](https://github.com/inho9979/coding-test/blob/main/BOJ/Bronze/BOJ_10871_X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98.java) |
+| 2025-12-08 | 2444 | 별찍기7    | B3     | 심화1   | [코드][(./BOJ//.java)](https://github.com/inho9979/coding-test/blob/main/BOJ/Bronze/BOJ_2444_%EB%B3%84%EC%B0%8D%EA%B8%B07.java) |
 ---
 
 ## 🎯 목표
